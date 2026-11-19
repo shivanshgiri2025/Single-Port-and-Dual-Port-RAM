@@ -1,25 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 31.07.2026 11:55:43
-// Design Name: 
-// Module Name: P_Single_Port_RAM_Vivado
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 // Single Port RAM module design
-
 module P_Single_Port_RAM_Vivado(
   input [7:0] write_data,      // input data
   input [5:0] address,         // address
