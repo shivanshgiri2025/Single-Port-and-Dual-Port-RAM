@@ -68,4 +68,4 @@ Both designs were created and simulated separately in Xilinx Vivado.
 - Verilog HDL
 
 ## Simulation
-Both RAM designs are tested using Verilog testbenches to verify read and write operations.
+Both RAM designs were simulated separately using their respective testbenches to verify read and write operations.
