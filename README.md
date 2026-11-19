@@ -1,7 +1,11 @@
 # RAM Design Using Verilog HDL
 
 ## Description
-This project includes the design of Single-Port RAM and Dual-Port RAM using Verilog HDL in Xilinx Vivado.
+This repository contains two separate RAM designs implemented using Verilog HDL in Xilinx Vivado:
+1. Single-Port RAM
+2. Dual-Port RAM
+
+Both designs were created and simulated separately in Xilinx Vivado.
 
 ## 1. Single-Port RAM
 
